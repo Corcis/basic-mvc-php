@@ -1,0 +1,47 @@
+html {
+  height: 100%; }
+  html body {
+    height: 100%; }
+  html .full-height {
+    height: 100%; }
+  html nav.navbar.navbar-inverse {
+    margin: 0; }
+  html .video-container {
+    height: 92%;
+    width: 99.99%;
+    overflow: scroll;
+    position: absolute; }
+    html .video-container video {
+      min-width: 100%;
+      min-height: 100%;
+      width: auto;
+      height: auto;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%); }
+  html .white-text {
+    color: white; }
+  html .absolute {
+    position: absolute; }
+  html .front {
+    z-index: 100 !important; }
+  html .white {
+    background-color: white; }
+  html .card {
+    width: 400px !important;
+    height: 400px !important;
+    text-align: center;
+     }
+  html .vertical-center {
+    -ms-display: flex;
+    display: flex;
+    /* alineacion vertical */
+    align-items: center;
+    /* alineacion horizontal */
+    justify-content: center; }
+    html .h1{
+      position:absolute;
+    }
+  
